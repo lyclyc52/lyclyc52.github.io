@@ -43,10 +43,6 @@ padding: 0px 0px 0px 0px;
 
 
 <body class='typora-export os-windows'>
-<h1>
-<a name="yichen-liu" class="md-header-anchor" ></a>
-<span>Publication</span>
-</h1>
 <div class="pub">
 <div class="bdcard">
 <img src="{{site.pub_img.instance_nerf | relative_url}}" alt="instance_nerf" />
