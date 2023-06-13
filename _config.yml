@@ -309,3 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+pub_img:
+  nerf_rpn: /images/nerf_rpn.png
+  instance_nerf: /images/instance_nerf.gif
