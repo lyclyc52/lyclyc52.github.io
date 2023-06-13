@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Yichen Liu"
 description              : &description "Yichen's webpaee"
 url                      : "https://lyclyc52.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/lyclyc52.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lyclyc52/lyclyc52.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yichen Liu"
-  avatar           : "profile.PNG"
+  avatar           : "profile_1.png"
   bio              : "Working on computer vision"
   location         : "Hong Kong"
   employer         :
