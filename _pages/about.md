@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student in the Hong Kong University of Science and Technology(HKUST), majoring in both Computer Science and Mathematics. My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on extending the board application of computer vision into 3D space. 
+I am an MPhil student in the Hong Kong University of Science and Technology(HKUST), supervised by Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Neural Radiance Field(NeRF). My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on extending the board application of computer vision into 3D space. 
 
-I have been working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Neural Radiance Field(NeRF). I will be MPhil student supervised by them in HKUST in the incoming fall semester!
+I obtained my Bachelor Degree in HKUST as well, majoring in both Computer Science and Mathematics. 
+
+
 
 
 ## Publication
@@ -50,13 +52,13 @@ padding: 0px 0px 0px 0px;
 <div class="bdtext">
 <h6>Instance NeRF</h6>
 <font size="3" >
+<b>Yichen Liu </b>*, 
 <a href="https://zymk9.github.io/">Benran Hu</a>*,  
 <a href="https://www.junkai.site/">Junkai Huang</a>*, 
-<b>Yichen Liu </b>*, 
 <a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
 <i>* indicates equal contribution </i><br>
-<i> arXiv,Preprint, 2023 </i> <br>
+<i> IEEE/CVF International Conference on Computer Vision </i> <br>
 <a href="https://arxiv.org/abs/2304.04395">[paper]</a> <a href="https://www.youtube.com/watch?v=wW9Bme73coI&feature=youtu.be">[video]</a>
 </font>
 </div>
