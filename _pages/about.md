@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil student in the Hong Kong University of Science and Technology(HKUST), supervised by Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Neural Radiance Field(NeRF). My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on extending the board application of computer vision into 3D space. 
+I am an MPhil student in the Hong Kong University of Science and Technology(HKUST), supervised by Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Neural Radiance Field(NeRF). My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on 3D reconstruction, 3D understanding and neural rendering.
 
 I obtained my Bachelor Degree in HKUST as well, majoring in both Computer Science and Mathematics. 
 
