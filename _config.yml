@@ -313,3 +313,4 @@ compress_html:
 pub_img:
   nerf_rpn: /images/nerf_rpn.png
   instance_nerf: /images/instance_nerf.gif
+  sanerf_hq: /images/sanerf_hq.gif

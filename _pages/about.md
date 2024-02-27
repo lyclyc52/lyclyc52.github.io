@@ -50,7 +50,7 @@ padding: 0px 0px 0px 0px;
 <img src="{{site.pub_img.sanerf_hq | relative_url}}" alt="sanerf_hq" />
 </div>
 <div class="bdtext">
-<h6>SANeRF-HQ: Segment Anything for NeRF in High Quality</h6>
+<h3>SANeRF-HQ: Segment Anything for NeRF in High Quality</h3>
 <font size="3" >
 <b>Yichen Liu </b>*, 
 <a href="https://zymk9.github.io/">Benran Hu</a>*,  
@@ -68,7 +68,7 @@ padding: 0px 0px 0px 0px;
 <img src="{{site.pub_img.instance_nerf | relative_url}}" alt="instance_nerf" />
 </div>
 <div class="bdtext">
-<h6>Instance Neural Radiance Field</h6>
+<h3>Instance Neural Radiance Field</h3>
 <font size="3" >
 <b>Yichen Liu </b>*, 
 <a href="https://zymk9.github.io/">Benran Hu</a>*,  
@@ -88,7 +88,7 @@ padding: 0px 0px 0px 0px;
 <img src="{{site.pub_img.nerf_rpn | relative_url}}" alt="nerf_rpn" />
 </div>
 <div class="bdtext">
-<h6>NeRF-RPN: A general framework for object detection in NeRFs</h6>
+<h3>NeRF-RPN: A general framework for object detection in NeRFs</h3>
 <font size="3" >
 <a href="https://zymk9.github.io/">Benran Hu</a>*,  
 <a href="https://www.junkai.site/">Junkai Huang</a>*, 
