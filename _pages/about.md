@@ -16,8 +16,6 @@ I am looking for a PhD position now!
 
 
 ## Publication
-
-
 <style>
 .pub{
 width: 900px;
@@ -48,10 +46,28 @@ padding: 0px 0px 0px 0px;
 <body class='typora-export os-windows'>
 <div class="pub">
 <div class="bdcard">
+<img src="{{site.pub_img.instance_nerf | relative_url}}" alt="sanerf_hq" />
+</div>
+<div class="bdtext">
+<h6>SANeRF-HQ: Segment Anything for NeRF in High Quality</h6>
+<font size="3" >
+<b>Yichen Liu </b>*, 
+<a href="https://zymk9.github.io/">Benran Hu</a>*,  
+<a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
+<a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
+<i>* indicates equal contribution </i><br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </i> <br>
+<a href="https://arxiv.org/abs/2304.04395">[paper]</a> <a href="https://www.youtube.com/watch?v=wW9Bme73coI&feature=youtu.be">[video]</a>
+</font>
+</div>
+</div>
+
+<div class="pub">
+<div class="bdcard">
 <img src="{{site.pub_img.instance_nerf | relative_url}}" alt="instance_nerf" />
 </div>
 <div class="bdtext">
-<h6>Instance NeRF</h6>
+<h6>Instance Neural Radiance Field</h6>
 <font size="3" >
 <b>Yichen Liu </b>*, 
 <a href="https://zymk9.github.io/">Benran Hu</a>*,  
@@ -59,7 +75,7 @@ padding: 0px 0px 0px 0px;
 <a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
 <i>* indicates equal contribution </i><br>
-<i> IEEE/CVF International Conference on Computer Vision </i> <br>
+<i> IEEE/CVF International Conference on Computer Vision (ICCV), 2023 </i> <br>
 <a href="https://arxiv.org/abs/2304.04395">[paper]</a> <a href="https://www.youtube.com/watch?v=wW9Bme73coI&feature=youtu.be">[video]</a>
 </font>
 </div>
