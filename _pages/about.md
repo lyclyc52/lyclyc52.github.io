@@ -44,6 +44,7 @@ padding: 0px 0px 0px 0px;
 
 
 <body class='typora-export os-windows'>
+
 <div class="pub">
 <div class="bdcard">
 <img src="{{site.pub_img.instance_nerf | relative_url}}" alt="sanerf_hq" />
@@ -57,7 +58,7 @@ padding: 0px 0px 0px 0px;
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
 <i>* indicates equal contribution </i><br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </i> <br>
-<a href="https://arxiv.org/abs/2304.04395">[paper]</a> <a href="https://www.youtube.com/watch?v=wW9Bme73coI&feature=youtu.be">[video]</a>
+<a href="https://arxiv.org/abs/2312.01531">[paper]</a> <a href="https://lyclyc52.github.io/SANeRF-HQ/">[Project]</a>
 </font>
 </div>
 </div>
