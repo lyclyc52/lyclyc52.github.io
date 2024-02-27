@@ -68,6 +68,7 @@ padding: 0px 0px 0px 0px;
 <img src="{{site.pub_img.instance_nerf | relative_url}}" alt="instance_nerf" />
 </div>
 <div class="bdtext">
+<font size="5" >
 <h3>Instance Neural Radiance Field</h3>
 <font size="3" >
 <b>Yichen Liu </b>*, 
