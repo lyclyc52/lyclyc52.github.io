@@ -44,7 +44,7 @@ padding: 0px 0px 0px 0px;
 
 <div class="pub">
 <div class="bdcard">
-<img src="{{site.pub_img.sanerf_hq | relative_url}}" alt="sanerf_hq" />
+<img src="{{site.pub_img.sanerf_hq | relative_url}}" alt="sanerf_hq" loop="infinite"/>
 </div>
 <div class="bdtext">
 <h6>SANeRF-HQ: Segment Anything for NeRF in High Quality</h6>
