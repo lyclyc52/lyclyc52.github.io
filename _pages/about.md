@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil student in the Hong Kong University of Science and Technology(HKUST), supervised by Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Neural Radiance Field(NeRF). I obtained my Bachelor Degree in HKUST as well, majoring in both Computer Science and Mathematics. My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on 3D reconstruction, 3D understanding and neural rendering.
+I am an AI researcher in SenseTime. I obtained the Bachelor Degree of both Computer Science and Mathematics from the Hong Kong University of Science and Technology(HKUST). I also obtained the MPhil Degree of Computer Science, supervised by Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). My research interests are in the areas of computer vision and machine learning, especially 3D vision. Currently I am focusing on diffusion model and multi-modal LLM.
 
-I am looking for a PhD position now!
-
-
-
+Feel free to contact me through email for any question!
 
 
 ## Publication
