@@ -12,7 +12,7 @@ I am an AI researcher in SenseTime. I obtained the Bachelor Degree of both Compu
 Feel free to contact me through email for any question!
 
 
-## Publication
+## Selected Publication
 <style>
 .pub{
 width: 900px;
@@ -44,7 +44,22 @@ padding: 0px 0px 0px 0px;
 
 <div class="pub">
 <div class="bdcard">
-<img src="{{site.pub_img.sanerf_hq | relative_url}}" alt="sanerf_hq" loop="infinite"/>
+<img src="{{site.pub_img.unimlvg | relative_url}}" alt="unimlvg"/>
+</div>
+<div class="bdtext">
+<h6>UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving</h6>
+<font size="3" >
+Rui Chen, Zehuan Wu, <b>Yichen Liu</b>*, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Siyu Xia <br>
+<i>* indicates equal contribution </i><br>
+<i> IEEE/CVF International Conference on Computer Vision (ICCV), 2025 </i> <br>
+<a href="https://arxiv.org/abs/2312.01531">[paper]</a> <a href="https://lyclyc52.github.io/SANeRF-HQ/">[Project]</a>
+</font>
+</div>
+</div>
+
+<div class="pub">
+<div class="bdcard">
+<img src="{{site.pub_img.sanerf_hq | relative_url}}" alt="sanerf_hq"/>
 </div>
 <div class="bdtext">
 <h6>SANeRF-HQ: Segment Anything for NeRF in High Quality</h6>
