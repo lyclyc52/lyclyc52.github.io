@@ -311,6 +311,9 @@ compress_html:
     envs: development
 
 pub_img:
-  nerf_rpn: /images/nerf_rpn.png
-  instance_nerf: /images/instance_nerf.gif
-  sanerf_hq: /images/sanerf_hq.gif
+  nerf_rpn: /images/paper_images/nerf_rpn.png
+  instance_nerf: /images/paper_images/instance_nerf.gif
+  sanerf_hq: /images/paper_images/sanerf_hq.gif
+  unimlvg: /images/paper_images/unimlvg.png
+  maskgwm: /images/paper_images/maskgwm.png
+

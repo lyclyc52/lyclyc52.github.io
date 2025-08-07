@@ -49,10 +49,24 @@ padding: 0px 0px 0px 0px;
 <div class="bdtext">
 <h6>UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving</h6>
 <font size="3" >
-Rui Chen, Zehuan Wu, <b>Yichen Liu</b>*, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Siyu Xia <br>
-<i>* indicates equal contribution </i><br>
+Rui Chen, Zehuan Wu, <b>Yichen Liu</b>, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Siyu Xia <br>
 <i> IEEE/CVF International Conference on Computer Vision (ICCV), 2025 </i> <br>
-<a href="https://arxiv.org/abs/2312.01531">[paper]</a> <a href="https://lyclyc52.github.io/SANeRF-HQ/">[Project]</a>
+<a href="https://arxiv.org/abs/2412.04842">[paper]</a> <a href="https://github.com/SenseTime-FVG/OpenDWM">[Project]</a>
+</font>
+</div>
+</div>
+
+
+<div class="pub">
+<div class="bdcard">
+<img src="{{site.pub_img.maskgwm | relative_url}}" alt="maskgwm"/>
+</div>
+<div class="bdtext">
+<h6>MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction</h6>
+<font size="3" >
+Rui Chen, Zehuan Wu, <b>Yichen Liu</b>, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Siyu Xia <br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 </i> <br>
+<a href="https://arxiv.org/abs/2502.11663">[paper]</a> <a href="https://github.com/SenseTime-FVG/OpenDWM">[Project]</a>
 </font>
 </div>
 </div>
