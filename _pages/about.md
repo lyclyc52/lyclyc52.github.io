@@ -64,7 +64,7 @@ Rui Chen, Zehuan Wu, <b>Yichen Liu</b>, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Si
 <div class="bdtext">
 <h6>MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction</h6>
 <font size="3" >
-Rui Chen, Zehuan Wu, <b>Yichen Liu</b>, Yuxin Guo, Jingcheng Ni, Haifeng Xia, Siyu Xia <br>
+Jingcheng Ni, Yuxin Guo, Yichen Liu, Rui Chen, Lewei Lu, Zehuan Wu <br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 </i> <br>
 <a href="https://arxiv.org/abs/2502.11663">[paper]</a> <a href="https://github.com/SenseTime-FVG/OpenDWM">[Project]</a>
 </font>
